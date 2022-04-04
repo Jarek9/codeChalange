@@ -21,4 +21,4 @@ GET http://localhost:4000/events/search/{charArray}
 DELETE http://localhost:4000/events/{eventId}
 
 Open filese in code editor like Microsoft Visual Studio and run it with command "npm start"
-Using Postman you can test endpoints
+Using Postman you can test endpoints.
